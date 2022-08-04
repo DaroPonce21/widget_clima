@@ -13,3 +13,7 @@ Using an external API https://www.weatherapi.com/
 Using React and Hooks
 Using Module.css
 and Google Maps.
+
+---------------------------------------------------------------
+
+![image](https://user-images.githubusercontent.com/96595564/182926266-f2504c06-f0f8-497e-bbc5-d0a25abc75a0.png)
